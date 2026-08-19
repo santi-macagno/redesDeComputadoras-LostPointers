@@ -1,19 +1,8 @@
 # Redes de Computadoras — Ingeniería en Computación (FCEFyN - UNC)
 
 Desarrollo de actividades prácticas, simulaciones y proyecto final para la materia
-**Redes de Computadoras**. Grupo **Lost Pointers**.
+**Redes de Computadoras**. Grupo **Lost-Pointers-2.4**.
 
-## Datos de la asignatura
-
-| | |
-| --- | --- |
-| Código | RTF 9 |
-| Departamento | Computación |
-| Bloque | Tecnologías Básicas |
-| Semestre | Sexto (3er año) |
-| Carga horaria | 96 hs (40 hs de práctica) |
-| Correlativa | Electrónica Digital 2 |
-| Plan | 285-25 |
 
 ## Horario de cursada
 
