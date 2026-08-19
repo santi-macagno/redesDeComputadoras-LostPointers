@@ -1,0 +1,63 @@
+# IA / asistentes
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+.claude*/
+.cursor/
+.cursorrules
+.aider*
+.github/copilot-instructions.md
+GEMINI.md
+.gemini/
+AGENTS.md
+
+# IDEs / editores
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# Entornos y dependencias
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+node_modules/
+.env
+.env.local
+
+# Salidas / temporales
+*.log
+*.tmp
+*.bak
+build/
+dist/
+out/
+
+# LaTeX
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc
+
+# Packet Tracer / simuladores
+*.pkt.bak
+*.bak?
+Backup*/
