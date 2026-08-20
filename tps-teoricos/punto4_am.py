@@ -1,9 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# =====================================================================
+
 # TP TEÓRICO - PUNTO 4: MODULACIÓN AM EN PYTHON
-# =====================================================================
+
 
 # Parámetros configurables
 Ap = 5.0      # Amplitud de la señal portadora
